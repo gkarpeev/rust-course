@@ -1,0 +1,11 @@
+/home/gkarp/Desktop/work/rust-course/comm/target/debug/deps/liblinux_raw_sys-7db915187bbfa99f.rmeta: /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/lib.rs /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/elf.rs /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/x86_64/errno.rs /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/x86_64/general.rs /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/x86_64/ioctl.rs
+
+/home/gkarp/Desktop/work/rust-course/comm/target/debug/deps/liblinux_raw_sys-7db915187bbfa99f.rlib: /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/lib.rs /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/elf.rs /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/x86_64/errno.rs /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/x86_64/general.rs /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/x86_64/ioctl.rs
+
+/home/gkarp/Desktop/work/rust-course/comm/target/debug/deps/linux_raw_sys-7db915187bbfa99f.d: /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/lib.rs /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/elf.rs /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/x86_64/errno.rs /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/x86_64/general.rs /home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/x86_64/ioctl.rs
+
+/home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/lib.rs:
+/home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/elf.rs:
+/home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/x86_64/errno.rs:
+/home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/x86_64/general.rs:
+/home/gkarp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.9.4/src/x86_64/ioctl.rs:
